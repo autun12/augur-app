@@ -46,7 +46,7 @@
     "electron-updater": "^3.0.3",
     "express": "4.16.2",
     "file-loader": "^2.0.0",
-    "helmet": "3.13.0",
+    "helmet": "3.21.1",
     "immutable-delete": "^1.1.0",
     "ip-port-regex": "^2.0.0",
     "knex": "0.14.6",
